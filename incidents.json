@@ -1,0 +1,4 @@
+{
+  "checkout": "Since ~2pm ET, ~18% of checkout attempts fail with 'payment processing unavailable'. api-gateway shows elevated latency. No customer-facing status page update yet.",
+  "latency": "API p95 latency jumped from 120ms to 4s in the last 20 minutes. Errors are mostly upstream timeouts to checkout-api."
+}
