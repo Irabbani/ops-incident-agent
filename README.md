@@ -1,4 +1,4 @@
-# Ops Incident Agent — Interview Demo
+# Ops Incident Agent — Demo
 
 A **multi-step AI agent** for on-call incident triage: tool use, ReAct loop, retries, offline CI mode, and golden-path tests.
 
